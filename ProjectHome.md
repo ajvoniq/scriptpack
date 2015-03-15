@@ -1,0 +1,1 @@
+This project is aimed to group a bunch of scripts one might need.
